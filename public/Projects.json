@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "AutoCar",
+        "picture": "https://i.ibb.co/N2WdRCX/261363438-4659334517455626-6015183946277864258-n.png",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
+        "Technologies": "HTML"
+    },
+    {
+        "id": 2,
+        "name": "Atrii World",
+        "picture": "https://i.ibb.co/HDVWG2w/261231271-498933434559970-1929582344059218690-n.png",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
+        "Technologies": "HTML"
+    },
+    {
+        "id": 3,
+        "name": "Medicine Shop",
+        "picture": "https://i.ibb.co/BKGYN3M/261093883-240247774720887-4198591869062874800-n.png",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
+        "Technologies": "HTML"
+    },
+    {
+        "id": 4,
+        "name": "My StoreBD",
+        "picture": "https://i.ibb.co/m4BzpCt/261581881-613177633256529-9186849346109628257-n.png",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
+        "Technologies": "HTML"
+    }
+]
