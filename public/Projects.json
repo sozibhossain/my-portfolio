@@ -3,8 +3,11 @@
         "id": 1,
         "name": "AutoCar",
         "picture": "https://i.ibb.co/N2WdRCX/261363438-4659334517455626-6015183946277864258-n.png",
-        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
-        "Technologies": "HTML"
+        "details": "Admin and user will see the different features. Users can order products, Cancel orders, order history, order reviews with dynamic ratings of the product. Only admin can add products, manage products, delete products, new admin",
+        "Technologies": "React js, MongoDB, Node js, Node Express, Firebase, Authentication,   Material UI, CSS, Heroku, JWT",
+        "LiveLink": "https://autocar-ab3c5.web.app/",
+        "ClientLink": "https://github.com/sozibhossain/Assignment-12",
+        "ServerLink": "https://github.com/sozibhossain/Assignment-12-server"
     },
     {
         "id": 2,

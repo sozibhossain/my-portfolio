@@ -14,9 +14,11 @@ const Project = () => {
 
     return (
         <div style={{backgroundColor: '#070640', paddingTop: '50px', paddingBottom: '50px'}}>
-            <Typography variant="h2" gutterBottom component="div" style={{textAlign: 'center', color: 'white', padding: '20px'}}>
-                Project
+            <Container>
+            <Typography variant="h2" gutterBottom component="div" style={{textAlign: 'left', color: 'white', padding: '20px'}}>
+                My Project
             </Typography>
+            </Container>
             <Container>
 
                 <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>
