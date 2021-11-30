@@ -34,7 +34,10 @@ const Navigation = () => {
                     <Button color="inherit">About US</Button>
                 </NavLink>
                 <NavLink style={{ textDecoration: 'none', color: 'white' }} to="/contactf">
-                    <Button color="inherit">contact</Button>
+                    <Button color="inherit">Contact</Button>
+                </NavLink>
+                <NavLink style={{ textDecoration: 'none', color: 'white' }} to="/blog">
+                    <Button color="inherit">Blog</Button>
                 </NavLink>
                 <a href={downloadpdf} download="downloadpdf" style={{ textDecoration: 'none', color: 'white' }}><Button color="inherit">RESUME <DownloadIcon style={{fontSize: '20px'}}/></Button></a>
                 <Button color="inherit">Login</Button>
