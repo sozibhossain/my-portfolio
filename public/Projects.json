@@ -13,21 +13,30 @@
         "id": 2,
         "name": "Atrii World",
         "picture": "https://i.ibb.co/HDVWG2w/261231271-498933434559970-1929582344059218690-n.png",
-        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
-        "Technologies": "HTML"
+        "details": "Users and admin can log in with registered email or product details with the private route in login. Responsive web application with dynamic products and users review section. Used firebase authentication system for login, register, and Google sign-in.",
+        "Technologies": "React js, MongoDB, Node js, Node Express, Firebase Authentication, React Bootstrap, CSS, Heroku, JWT.",
+        "LiveLink": "https://atrii-world.web.app/",
+        "ClientLink": "https://github.com/sozibhossain/Assignment-11",
+        "ServerLink": "https://github.com/sozibhossain/Assignment-11-server"
     },
     {
         "id": 3,
         "name": "Medicine Shop",
         "picture": "https://i.ibb.co/BKGYN3M/261093883-240247774720887-4198591869062874800-n.png",
-        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
-        "Technologies": "HTML"
+        "details": "Admin and user will see the different features. Users can order products, Cancel orders, order history, order reviews with dynamic ratings of the product. Only admin can add products, manage products, delete products, new admin",
+        "Technologies": "React js, MongoDB, Node js, Node Express, Firebase Authentication, React Bootstrap, CSS.",
+        "LiveLink": "https://medicine-shop-2dc4e.web.app/",
+        "ClientLink": "https://github.com/sozibhossain/Assignment-10",
+        "ServerLink": "---"
     },
     {
         "id": 4,
         "name": "My StoreBD",
         "picture": "https://i.ibb.co/m4BzpCt/261581881-613177633256529-9186849346109628257-n.png",
-        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611",
-        "Technologies": "HTML"
+        "details": "Users and admin can log in with registered email or product details with the private route in login. Responsive web application with dynamic products and users review section. Used firebase authentication system for login, register, and Google sign-in.",
+        "Technologies": "WordPress",
+        "LiveLink": "https://www.mystorebd.com/",
+        "ClientLink": "---",
+        "ServerLink": "---"
     }
 ]
