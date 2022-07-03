@@ -17,7 +17,7 @@ const Footer = () => {
                         </Grid>
                         <Grid item xs={4} sm= {4} md={4}>
                             <Typography variant="h6" gutterBottom component="div" style={{textAlign: 'left', color: 'white'}}>
-                                My Portfolio
+                                MD. Sozib Hossain
                             </Typography> 
                         </Grid>
                         <Grid item xs={4} sm= {8} md={4}>

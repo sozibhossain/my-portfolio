@@ -38,5 +38,35 @@
         "LiveLink": "https://www.mystorebd.com/",
         "ClientLink": "---",
         "ServerLink": "---"
+    },
+    {
+        "id": 5,
+        "name": "Natours",
+        "picture": "https://i.ibb.co/tXWdZ1v/Natours.png",
+        "details": "Users and admin can log in with registered email or product details with the private route in login. Responsive web application with dynamic products and users review section. Used firebase authentication system for login, register, and Google sign-in.",
+        "Technologies": "JavaScript, HTML, CSS, SASS.",
+        "LiveLink": "https://transcendent-scone-0bef3c.netlify.app/",
+        "ClientLink": "https://github.com/sozibhossain/Natures",
+        "ServerLink": "---"
+    },
+    {
+        "id": 6,
+        "name": "Nexter",
+        "picture": "https://i.ibb.co/mCv8kbs/Nexter.png",
+        "details": "Users and admin can log in with registered email or product details with the private route in login. Responsive web application with dynamic products and users review section. Used firebase authentication system for login, register, and Google sign-in.",
+        "Technologies": "JavaScript, HTML, CSS, SASS.",
+        "LiveLink": "https://adorable-dusk-593695.netlify.app/",
+        "ClientLink": "https://github.com/sozibhossain/Nexter",
+        "ServerLink": "---"
+    },
+    {
+        "id": 7,
+        "name": "Trillo",
+        "picture": "https://i.ibb.co/pdXbhHK/Trillo.png",
+        "details": "Users and admin can log in with registered email or product details with the private route in login. Responsive web application with dynamic products and users review section. Used firebase authentication system for login, register, and Google sign-in.",
+        "Technologies": "JavaScript, HTML, CSS, SASS.",
+        "LiveLink": "https://funny-ganache-2ed07c.netlify.app/",
+        "ClientLink": "https://github.com/sozibhossain/Trillo",
+        "ServerLink": "---"
     }
 ]

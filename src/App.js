@@ -11,18 +11,20 @@ import Navigation from './Pages/Shared/Navigation/Navigation';
 
 function App() {
   return (
-    <BrowserRouter>
-      <Navigation/>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/home" element={<Home />} />
-        <Route path="/contactf" element={<ContactF />} />
-        <Route path="/about" element={<About/>} />
-        <Route path="/blog" element={<Blog/>} />
-        <Route path="/projectDetails/:id" element={<ProjectDetails/>} />
-      </Routes>
-      <Footer/>
-    </BrowserRouter>
+    <div className="App">
+      <BrowserRouter>
+        <Navigation/>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/contactf" element={<ContactF />} />
+          <Route path="/about" element={<About/>} />
+          <Route path="/blog" element={<Blog/>} />
+          <Route path="/projectDetails/:id" element={<ProjectDetails/>} />
+        </Routes>
+        <Footer/>
+      </BrowserRouter>
+    </div>
   );
 }
 
